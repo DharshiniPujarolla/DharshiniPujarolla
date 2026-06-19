@@ -29,7 +29,6 @@ B.Tech CSE (AI/ML) student at **SRM IST Chennai** building practical experience 
 
 ## 🌱 Open Source — GSSoC 2026
 
-**GirlScript Summer of Code 2026 Contributor** — 10 merged PRs · 7 repositories · 1041 points
 
 | Repository | Contribution |
 |-----------|-------------|
