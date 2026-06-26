@@ -1,8 +1,8 @@
 # Hi, I'm Dharshini Pujarolla 👋
 
-B.Tech CSE (AI/ML) student at **SRM IST Chennai** building practical experience in **Data Science, Machine Learning, AI, and Software Development** — through internships, open source, and hands-on projects.
+B.Tech CSE (AI/ML) student at **SRM IST Chennai** building practical experience in **Machine Learning, AI, Data Science and Software Development** — through internships, open source, and hands-on projects.
 
-📍 Open to internships in **Data Science · ML · AI · Software Development**
+📍 Open to internships in **ML · AI · Data Science · Software Development**
 
 ---
 
@@ -49,7 +49,6 @@ B.Tech CSE (AI/ML) student at **SRM IST Chennai** building practical experience 
 |--------|-------------|
 | [FlashCard App](https://github.com/DharshiniPujarolla/FlashCard-App) | Python Tkinter app for learning French vocabulary with progress tracking & CSV persistence |
 | [CODSOFT Internship](https://github.com/DharshiniPujarolla/CODSOFT) | ML & Data Science projects from my CodSoft Data Science internship |
-| [OIBSIP Internship](https://github.com/DharshiniPujarolla/OIBSIP) | Data analytics & ML projects from my Oasis Infobyte internship |
 
 ---
 
@@ -65,4 +64,4 @@ B.Tech CSE (AI/ML) student at **SRM IST Chennai** building practical experience 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharshini-pujarolla-665a5837b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DharshiniPujarolla)
 
-*Open to connecting with professionals, mentors, and fellow students in Data Science, ML, AI, and Software Development.*
+*Open to connecting with professionals, mentors, and fellow students in ML, AI, Data Science and Software Development.*
