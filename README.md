@@ -33,9 +33,9 @@ B.Tech CSE (AI/ML) student at **SRM IST Chennai** building practical experience 
 | Repository | Contribution |
 |-----------|-------------|
 | `anurag3407/career-pilot` | Added Forgot Password feature to Login page (Advanced) |
-| `ronisarkarexe/story-spark-ai` | Added `/forgot-password` page and register route in App.tsx (2 PRs) |
-| `JhaSourav07/commitpulse` | Fixed empty username hint message; added JSDoc comments to all interfaces |
-| `SAPTARSHI-coder/EaseMotion-css` | Added notification badge with animation; added skeleton loader component |
+| `ronisarkarexe/story-spark-ai` | Added `/forgot-password` page and register route in App.tsx |
+| `JhaSourav07/commitpulse` | Fixed empty username hint message; added JSDoc comments to all interfaces (2 PRs) |
+| `SAPTARSHI-coder/EaseMotion-css` | Added notification badge with animation; added skeleton loader component (2 PRs) |
 | `viru0909-dev/nyay-setu-working` | Added global Back To Top button (exceptional quality) |
 | `RatLoopz/sahidawa-india` | Added expandable details toggle on medicine result card |
 | `imDarshanGK/AI-dev-assistant` | Added Clear Code button with toast notification |
