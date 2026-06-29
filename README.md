@@ -48,15 +48,14 @@ B.Tech CSE (AI/ML) student at **SRM IST Chennai** building practical experience 
 | Project | Description |
 |--------|-------------|
 | [FlashCard App](https://github.com/DharshiniPujarolla/FlashCard-App) | Python Tkinter app for learning French vocabulary with progress tracking & CSV persistence |
-| [CODSOFT Internship](https://github.com/DharshiniPujarolla/CODSOFT) | ML & Data Science projects from my CodSoft Data Science internship |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Dharshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DharshiniPujarolla&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DharshiniPujarolla&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DharshiniPujarolla&show_icons=true&hide_border=true&bg_color=0d1b2a&title_color=b39ddb&icon_color=b39ddb&text_color=8fd3a3&hide_rank=false" width="60%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DharshiniPujarolla&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
