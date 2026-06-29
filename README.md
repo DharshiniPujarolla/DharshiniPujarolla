@@ -45,9 +45,10 @@ B.Tech CSE (AI/ML) student at **SRM IST Chennai** building practical experience 
 
 ## 📌 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| [FlashCard App](https://github.com/DharshiniPujarolla/FlashCard-App) | Python Tkinter app for learning French vocabulary with progress tracking & CSV persistence |
+### FlashCard App ###
+- App for learning French vocabulary with your progress tracked
+- Flash card flips after 3 seconds
+- Built using Python, Tkinter and pandas 
 
 ---
 
