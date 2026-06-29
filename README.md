@@ -54,7 +54,7 @@ B.Tech CSE (AI/ML) student at **SRM IST Chennai** building practical experience 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DharshiniPujarolla&show_icons=true&hide_border=true&bg_color=0d1b2a&title_color=b39ddb&icon_color=b39ddb&text_color=8fd3a3&hide_rank=false" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DharshiniPujarolla&show_icons=true&hide_border=true&theme=tokyonight" width="60%" />
 </p>
 
 <p align="center">
