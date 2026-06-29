@@ -54,9 +54,13 @@ B.Tech CSE (AI/ML) student at **SRM IST Chennai** building practical experience 
 
 ## 📊 GitHub Stats
 
-[![Dharshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DharshiniPujarolla&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&rank_icon=github)](https://github.com/DharshiniPujarolla)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DharshiniPujarolla&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&rank_icon=github&cache_seconds=1800" alt="Dharshini's GitHub Stats" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DharshiniPujarolla&theme=dark&hide_border=true&background=00000000)](https://github.com/DharshiniPujarolla)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DharshiniPujarolla&theme=dracula&hide_border=true&background=00000000" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
